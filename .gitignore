@@ -1,0 +1,28 @@
+# EN: Python temporary files (created automatically when running)
+# CZ: Python dočasné soubory (vytváří se samy při spuštění)
+__pycache__/
+*.py[cod]
+
+# EN: Virtual environment
+# CZ: Virtuální prostředí
+venv/
+env/
+
+# EN: Files created by the operating system
+# CZ: Soubory tvého editoru 
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# EN: Python testing cache
+# CZ: Cache pro testování v Pythonu
+.pytest_cache/
+
+# EN: Logs and databases
+# CZ: Logy a databáze
+logs/
+*.log
+*.db
+dist/
+build/
