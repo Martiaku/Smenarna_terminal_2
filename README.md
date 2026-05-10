@@ -1,6 +1,6 @@
 # Směnárna – Terminálová aplikace
 
-Tento projekt je jednoduchá terminálová aplikace pro správu směnárny. Umožňuje správu uživatelů, pokladny, měn a evidenci transakcí. Je vhodný pro výuku a procvičení základů programování v Pythonu.
+Tento projekt je jednoduchá terminálová aplikace pro správu směnárny. Umožňuje správu uživatelů, pokladny, měn a evidenci transakcí.
 
 ## Funkce
 - Převod měn
@@ -56,7 +56,7 @@ Martin Kučera
 
 # Currency Exchange – Terminal Application
 
-This project is a simple terminal application for managing a currency exchange office. It allows user, cash desk, and currency management, as well as transaction logging. It is suitable for learning and practicing Python basics.
+This project is a simple terminal application for managing a currency exchange office. It allows user, cash desk, and currency management, as well as transaction logging.
 
 ## Features
 - Currency exchange
